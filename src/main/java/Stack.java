@@ -68,4 +68,5 @@ class Stack implements Scheduler {
         }
     }
 }
+// this is the file of stach jave here data is stored and according to that it is doen
 
