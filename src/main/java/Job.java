@@ -22,3 +22,4 @@ public class Job {
         lastRemainingBurst = (int) burstTime;
     }
 }
+// thisis job file in this project
