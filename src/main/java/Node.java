@@ -7,3 +7,4 @@ public class Node {
         next = null;
     }
  }
+// this is the file of node.java
