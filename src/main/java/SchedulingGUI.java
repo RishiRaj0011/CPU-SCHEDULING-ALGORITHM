@@ -214,3 +214,4 @@ public class SchedulingGUI extends JFrame {
     private javax.swing.JButton nextStep2;
     // End of variables declaration//GEN-END:variables
 }
+// this is the schedling file of jave
